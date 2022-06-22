@@ -1,2 +1,2 @@
 # beecrowd
-A repository with all my beecrowd problems solutions
+A repository with all my beecrowd problems solutions.
